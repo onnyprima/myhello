@@ -1,1 +1,2 @@
 adding line from cabang1 hello
+adding line from clone1 myhello
